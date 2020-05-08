@@ -1,2 +1,2 @@
-
-console.log('app')
+const userName = 'Maximilian'
+console.log(userName)

@@ -1,2 +1,3 @@
 "use strict";
-console.log('app');
+var userName = 'Maximilian';
+console.log(userName);
